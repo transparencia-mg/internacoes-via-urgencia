@@ -4,4 +4,5 @@ Taxa de Internações Originadas da Urgência: corresponde à proporção de ate
 
 Termos relacionados: pronto-atendimento, pronto-socorro, porta de urgência, internação.
 
-Notas técnicas: só é possível apresentar informações para os hospitais da rede Fhemig que já migraram para o sistema ERP Tasy.
+Notas técnicas: só é possível apresentar informações para as unidades da rede Fhemig que já migraram para o sistema ERP Tasy.
+
