@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Pacientes da urgência internados",
         "stats": {
-          "hash": "b371c39c8616b9d184fe5d0b6a77dac5",
-          "bytes": 3014,
+          "hash": "d0126f23872d9529832692c632b12a50",
+          "bytes": 3153,
           "fields": 5,
-          "rows": 146
+          "rows": 153
         }
       },
-      "time": 0.012,
+      "time": 0.013,
       "scope": [
         "hash-count-error",
         "byte-count-error",
