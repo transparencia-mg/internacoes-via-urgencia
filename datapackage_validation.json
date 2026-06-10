@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.022,
+  "time": 0.031,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Pacientes da urgência internados",
         "stats": {
-          "hash": "d0126f23872d9529832692c632b12a50",
-          "bytes": 3153,
+          "hash": "f175c4f5b66a798d48879625aaf6ed44",
+          "bytes": 3292,
           "fields": 5,
-          "rows": 153
+          "rows": 160
         }
       },
-      "time": 0.013,
+      "time": 0.021,
       "scope": [
         "hash-count-error",
         "byte-count-error",
